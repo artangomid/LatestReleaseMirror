@@ -11,7 +11,6 @@ Starling226/vaydns-vpn
 2dust/v2rayN
 g3ntrix/Shade
 anonvector/SlipNet
-anonvector/slipgate
 Happ-proxy/happ-android
 GFW-knocker/MahsaNG
 ircfspace/teleMirror
