@@ -5,15 +5,6 @@
 
 # 1. No filter – keep all assets from the release
 therealaleph/MasterHttpRelayVPN-RUST
-sartoopjj/thefeed
-Starling226/vaydns-vpn
-2dust/v2rayN
-anonvector/SlipNet
-Happ-proxy/happ-android
-GFW-knocker/MahsaNG
-ircfspace/teleMirror
-ajavadinezhad/zyrln
-nullroute1970/StormDNS
 
 # 2. Match keywords (e.g., linux-amd64, darwin-amd64)
 NullLatency/FlowDriver|linux-amd64|darwin-amd64
