@@ -16,7 +16,6 @@ Happ-proxy/happ-android
 GFW-knocker/MahsaNG
 ircfspace/teleMirror
 ajavadinezhad/zyrln
-github.com/Happ-proxy
 nullroute1970/StormDNS
 
 # 2. Match keywords (e.g., linux-amd64, darwin-amd64)
