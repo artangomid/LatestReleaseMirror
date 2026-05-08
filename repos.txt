@@ -6,10 +6,8 @@
 # 1. No filter – keep all assets from the release
 therealaleph/MasterHttpRelayVPN-RUST
 sartoopjj/thefeed
-masterking32/MasterDnsVPN
 Starling226/vaydns-vpn
 2dust/v2rayN
-g3ntrix/Shade
 anonvector/SlipNet
 Happ-proxy/happ-android
 GFW-knocker/MahsaNG
