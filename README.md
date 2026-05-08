@@ -308,6 +308,36 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="sartoopjj--thefeed"></div>
+
+### sartoopjj--thefeed
+
+🔗 [source](https://github.com/sartoopjj/thefeed) – [<code><small>v0.17.4</small></code>](https://github.com/sartoopjj/thefeed/releases/tag/v0.17.4)
+
+| File | Size | Download |
+|------|------|----------|
+| `thefeed-android-v0.17.4-arm64-v8a.apk` | 8.9 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-android-v0.17.4-arm64-v8a.apk) |
+| `thefeed-android-v0.17.4-armeabi-v7a.apk` | 9.1 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-android-v0.17.4-armeabi-v7a.apk) |
+| `thefeed-client-android-arm` | 11.3 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-android-arm) |
+| `thefeed-client-android-arm64` | 11.4 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-android-arm64) |
+| `thefeed-client-v0.17.4-darwin-amd64` | 11.6 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.4-darwin-amd64) |
+| `thefeed-client-v0.17.4-darwin-arm64` | 10.7 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.4-darwin-arm64) |
+| `thefeed-client-v0.17.4-freebsd-amd64` | 11.3 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.4-freebsd-amd64) |
+| `thefeed-client-v0.17.4-freebsd-arm64` | 10.3 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.4-freebsd-arm64) |
+| `thefeed-client-v0.17.4-linux-amd64` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.4-linux-amd64) |
+| `thefeed-client-v0.17.4-linux-arm64` | 2.8 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.4-linux-arm64) |
+| `thefeed-client-v0.17.4-windows-amd64.exe` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.4-windows-amd64.exe) |
+| `thefeed-ios-v0.17.4-unsigned.ipa` | 5.9 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-ios-v0.17.4-unsigned.ipa) |
+| `thefeed-server-darwin-amd64` | 15.1 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-server-darwin-amd64) |
+| `thefeed-server-darwin-arm64` | 14.3 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-server-darwin-arm64) |
+| `thefeed-server-freebsd-amd64` | 14.7 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-server-freebsd-amd64) |
+| `thefeed-server-freebsd-arm64` | 13.9 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-server-freebsd-arm64) |
+| `thefeed-server-linux-amd64` | 3.8 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-server-linux-amd64) |
+| `thefeed-server-linux-arm64` | 3.1 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-server-linux-arm64) |
+| `thefeed-server-windows-amd64.exe` | 3.8 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-server-windows-amd64.exe) |
+
+---
+
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
