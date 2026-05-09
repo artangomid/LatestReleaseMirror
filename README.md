@@ -200,6 +200,19 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="starling226--vaydns-vpn"></div>
+
+### Starling226--vaydns-vpn
+
+🔗 [source](https://github.com/Starling226/vaydns-vpn) – [<code><small>v1.9.0</small></code>](https://github.com/Starling226/vaydns-vpn/releases/tag/v1.9.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `VaydnsVpn-v1.9.0-arm64-v8a.apk` | 10.6 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/Starling226/vaydns-vpn/VaydnsVpn-v1.9.0-arm64-v8a.apk) |
+| `VaydnsVpn-v1.9.0-armeabi-v7a.apk` | 10.7 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/Starling226/vaydns-vpn/VaydnsVpn-v1.9.0-armeabi-v7a.apk) |
+
+---
+
 <div id="aleskxyz--round-sync"></div>
 
 ### aleskxyz--Round-Sync
