@@ -222,6 +222,35 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="ircfspace--telemirror"></div>
+
+### ircfspace--teleMirror
+
+🔗 [source](https://github.com/ircfspace/teleMirror) – [<code><small>v3.2.0</small></code>](https://github.com/ircfspace/teleMirror/releases/tag/v3.2.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `tele-mirror-linux-arm64.tar.gz (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-linux-arm64.tar.gz.001) |
+| `tele-mirror-linux-arm64.tar.gz (part 2 of 2)` | 22.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-linux-arm64.tar.gz.002) |
+| `tele-mirror-linux-x64.tar.gz (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-linux-x64.tar.gz.001) |
+| `tele-mirror-linux-x64.tar.gz (part 2 of 2)` | 22.8 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-linux-x64.tar.gz.002) |
+| `tele-mirror-mac-arm64.dmg (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-mac-arm64.dmg.001) |
+| `tele-mirror-mac-arm64.dmg (part 2 of 2)` | 13.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-mac-arm64.dmg.002) |
+| `tele-mirror-mac-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-mac-arm64.zip.001) |
+| `tele-mirror-mac-arm64.zip (part 2 of 2)` | 20.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-mac-arm64.zip.002) |
+| `tele-mirror-mac-x64.dmg (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-mac-x64.dmg.001) |
+| `tele-mirror-mac-x64.dmg (part 2 of 2)` | 16.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-mac-x64.dmg.002) |
+| `tele-mirror-mac-x64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-mac-x64.zip.001) |
+| `tele-mirror-mac-x64.zip (part 2 of 2)` | 25.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-mac-x64.zip.002) |
+| `tele-mirror-win-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-win-arm64.zip.001) |
+| `tele-mirror-win-arm64.zip (part 2 of 2)` | 44.4 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-win-arm64.zip.002) |
+| `tele-mirror-win-ia32.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-win-ia32.zip.001) |
+| `tele-mirror-win-ia32.zip (part 2 of 2)` | 27.3 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-win-ia32.zip.002) |
+| `tele-mirror-win-x64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-win-x64.zip.001) |
+| `tele-mirror-win-x64.zip (part 2 of 2)` | 51.6 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-win-x64.zip.002) |
+
+---
+
 <div id="nullroute1970--stormdns"></div>
 
 ### nullroute1970--StormDNS
@@ -312,22 +341,22 @@ sha256sum FILE_NAME
 
 ### sartoopjj--thefeed
 
-🔗 [source](https://github.com/sartoopjj/thefeed) – [<code><small>v0.17.4</small></code>](https://github.com/sartoopjj/thefeed/releases/tag/v0.17.4)
+🔗 [source](https://github.com/sartoopjj/thefeed) – [<code><small>v0.17.5</small></code>](https://github.com/sartoopjj/thefeed/releases/tag/v0.17.5)
 
 | File | Size | Download |
 |------|------|----------|
-| `thefeed-android-v0.17.4-arm64-v8a.apk` | 8.9 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-android-v0.17.4-arm64-v8a.apk) |
-| `thefeed-android-v0.17.4-armeabi-v7a.apk` | 9.1 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-android-v0.17.4-armeabi-v7a.apk) |
+| `thefeed-android-v0.17.5-arm64-v8a.apk` | 8.9 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-android-v0.17.5-arm64-v8a.apk) |
+| `thefeed-android-v0.17.5-armeabi-v7a.apk` | 9.1 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-android-v0.17.5-armeabi-v7a.apk) |
 | `thefeed-client-android-arm` | 11.3 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-android-arm) |
 | `thefeed-client-android-arm64` | 11.4 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-android-arm64) |
-| `thefeed-client-v0.17.4-darwin-amd64` | 11.6 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.4-darwin-amd64) |
-| `thefeed-client-v0.17.4-darwin-arm64` | 10.7 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.4-darwin-arm64) |
-| `thefeed-client-v0.17.4-freebsd-amd64` | 11.3 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.4-freebsd-amd64) |
-| `thefeed-client-v0.17.4-freebsd-arm64` | 10.3 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.4-freebsd-arm64) |
-| `thefeed-client-v0.17.4-linux-amd64` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.4-linux-amd64) |
-| `thefeed-client-v0.17.4-linux-arm64` | 2.8 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.4-linux-arm64) |
-| `thefeed-client-v0.17.4-windows-amd64.exe` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.4-windows-amd64.exe) |
-| `thefeed-ios-v0.17.4-unsigned.ipa` | 5.9 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-ios-v0.17.4-unsigned.ipa) |
+| `thefeed-client-v0.17.5-darwin-amd64` | 11.6 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.5-darwin-amd64) |
+| `thefeed-client-v0.17.5-darwin-arm64` | 10.7 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.5-darwin-arm64) |
+| `thefeed-client-v0.17.5-freebsd-amd64` | 11.3 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.5-freebsd-amd64) |
+| `thefeed-client-v0.17.5-freebsd-arm64` | 10.3 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.5-freebsd-arm64) |
+| `thefeed-client-v0.17.5-linux-amd64` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.5-linux-amd64) |
+| `thefeed-client-v0.17.5-linux-arm64` | 2.8 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.5-linux-arm64) |
+| `thefeed-client-v0.17.5-windows-amd64.exe` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.5-windows-amd64.exe) |
+| `thefeed-ios-v0.17.5-unsigned.ipa` | 5.9 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-ios-v0.17.5-unsigned.ipa) |
 | `thefeed-server-darwin-amd64` | 15.1 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-server-darwin-amd64) |
 | `thefeed-server-darwin-arm64` | 14.3 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-server-darwin-arm64) |
 | `thefeed-server-freebsd-amd64` | 14.7 MB | [⬇️ Download](https://raw.githubusercontent.com/artangomid/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-server-freebsd-amd64) |
