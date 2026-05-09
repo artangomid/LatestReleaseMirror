@@ -9,6 +9,7 @@ aleskxyz/Round-Sync
 nullroute1970/StormDNS
 sartoopjj/thefeed
 ircfspace/teleMirror
+Starling226/vaydns-vpn
 
 # 2. Match keywords (e.g., linux-amd64, darwin-amd64)
 NullLatency/FlowDriver|linux-amd64|darwin-amd64
